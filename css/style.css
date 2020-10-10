@@ -1,0 +1,45 @@
+header{
+    height: 100px;
+    background-color: aqua;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    height:800px;
+    background-color: crimson;
+    width: 200px;
+    float: left;
+}
+.center{
+    height:800px;
+    background-color: darkgreen;
+    width: 1024px;
+    float: left;
+}
+.top{
+    height:25%;
+   
+    background-color: darkviolet;
+}
+.middle{
+    height:50%;
+    
+    background-color: dodgerblue;
+}
+.bottom{
+    height:25%;
+  
+    background-color: greenyellow;
+}
+.right{
+    height:800px;
+    background-color: darkred;
+    width: 200px;
+    float: right;
+
+}
+footer{
+    height: 100px;
+    background-color: brown;
+}
